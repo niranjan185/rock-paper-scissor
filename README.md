@@ -1,2 +1,2 @@
 # tic-tac-toe
-i created most followed game tic tac toe open source
+i created most followed game ROCK - PAPER - SCISSOR open source
